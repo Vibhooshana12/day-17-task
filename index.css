@@ -1,0 +1,15 @@
+.container{
+    color:rgb(247, 236, 233);
+    background-color: rgb(30, 77, 95);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.card {
+    background-image: linear-gradient(to right , rgb(134, 118, 88), rgb(87, 131, 127));
+    background-color: rgb(35, 64, 75);
+    margin-bottom: 10px !important;
+}
+.btn-primary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
